@@ -1,0 +1,12 @@
+numpy
+scipy
+pywavelets
+scikit-image
+seaborn
+pillow
+jupyter
+nb_conda
+matplotlib
+ipympl
+jupyterlab
+pylint
